@@ -1,0 +1,1 @@
+python main.py test /media/yoli/WDC-2.0-TB-Hard-/7Scenes/ datasets/7Scenes/abs_7scenes_pose.csv_heads_test.csv_with_sp.csv 7scenes_config.json--checkpoint_path
